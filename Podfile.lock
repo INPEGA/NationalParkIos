@@ -1,0 +1,40 @@
+PODS:
+  - Crashlytics (3.7.2):
+    - Fabric (~> 1.6.3)
+  - Fabric (1.6.7)
+  - GoogleMaps (1.13.2)
+  - RTPagingViewController (1.0.3)
+  - SVProgressHUD (2.0.3)
+  - SwiftCSV (0.3.2)
+  - SwiftyJSON (2.3.2)
+
+DEPENDENCIES:
+  - Crashlytics
+  - Fabric
+  - GoogleMaps
+  - RTPagingViewController (= 1.0.3)
+  - SVProgressHUD
+  - SwiftCSV
+  - SwiftyJSON (from `https://github.com/SwiftyJSON/SwiftyJSON.git`)
+
+EXTERNAL SOURCES:
+  SwiftyJSON:
+    :git: https://github.com/SwiftyJSON/SwiftyJSON.git
+
+CHECKOUT OPTIONS:
+  SwiftyJSON:
+    :commit: 73670b94292b8d8496c398a973f56ac67789ba9f
+    :git: https://github.com/SwiftyJSON/SwiftyJSON.git
+
+SPEC CHECKSUMS:
+  Crashlytics: 130ab943f8c78cda7a814b434f270b2e2c8a3cba
+  Fabric: caf7580c725e64db144f610ac65cd60956911dc7
+  GoogleMaps: b20a103ff307f58392e603cf142e59d7e30374c1
+  RTPagingViewController: 185f84224ac4a048602a05d4f513886e18c21098
+  SVProgressHUD: b0830714205bea1317ea1a2ebc71e5633af334d4
+  SwiftCSV: 8b64b738fc54567d229acb17ce6d584e0dd27560
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+
+PODFILE CHECKSUM: d1d08749878884e0f3dc43066be8f57d3bf404fc
+
+COCOAPODS: 1.0.1

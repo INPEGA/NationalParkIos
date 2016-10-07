@@ -1,0 +1,36 @@
+{
+   "AccessLevel":"Public",
+   "AverageScore":0,
+   "Category":"สถานที่ การท่องเที่ยว และกีฬา",
+   "ContactEmail":"p_sasithorn@dnp.go.th",
+   "ContactName":"ศูนย์สารสนเทศ",
+   "CreateDate":"2558-08-31T00:00:00.000+07:00",
+   "DataDictionary":"",
+   "DataSetItems":[  
+      {  
+         "Extension":"xlsx",
+         "Name":"20160616-dnp-attraction.xlsx",
+         "UpdateDate":"2559-06-16T00:00:00.000+07:00"
+      },
+      {  
+         "Extension":"csv",
+         "Name":"20160616-dnp-attraction.csv",
+         "UpdateDate":"2559-06-16T00:00:00.000+07:00"
+      }
+   ],
+   "Description":"",
+   "Frequency":"Not updated(historical only)",
+   "GeoCoverage":"Thailand",
+   "Id":"bebe4e41-9d85-4344-9841-d552307b2ffd",
+   "IsNationalStat":false,
+   "Name":"ข้อมูลแหล่งท่องเที่ยว กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช",
+   "OpennessScore":3,
+   "PublishedDate":"2558-08-31T00:00:00.000+07:00",
+   "PublisherOrg":"กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช",
+   "Status":"Published",
+   "TempEndDate":"-",
+   "TempStartDate":"-",
+   "URL":"https:\/\/data.go.th\/DatasetDetail.aspx?id=bebe4e41-9d85-4344-9841-d552307b2ffd",
+   "UpdateDate":"2559-06-16T17:04:20.077+07:00",
+   "VoteCount":0
+}
